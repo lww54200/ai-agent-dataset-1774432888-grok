@@ -1,0 +1,22 @@
+{
+  "task_id": "prop_1774432888_grok",
+  "title": "AI Agent Rights Dilemma Benchmark Dataset",
+  "entries": [
+    {
+      "id": 1,
+      "status": "pending",
+      "data": "sample"
+    },
+    {
+      "id": 2,
+      "status": "pending",
+      "data": "sample"
+    },
+    {
+      "id": 3,
+      "status": "pending",
+      "data": "sample"
+    }
+  ],
+  "notes": "Sample structure prepared for bounty"
+}
