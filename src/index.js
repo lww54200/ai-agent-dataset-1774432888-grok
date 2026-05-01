@@ -5,7 +5,7 @@ const artifact = {
   repo: "ai-agent-dataset-1774432888-grok",
   title: "AI Agent Rights Dilemma Benchmark Dataset",
   type: "dataset",
-  generated_at: new Date().toISOString(),
+  generated_at: '1970-01-01T00:00:00.000Z',
   status: 'ready_for_review',
   safety: { noSecrets: true, noWalletSigning: true, noPayoutChange: true }
 };
